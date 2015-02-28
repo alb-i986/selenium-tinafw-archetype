@@ -9,7 +9,7 @@
     <packaging>maven-archetype</packaging>
 
     <name>selenium-tinafw archetype</name>
-    <description>Maven Archetype for creating selenium-tinafw projects</description>
+    <description>Archetype for creating Selenium projects that rely on selenium-tinafw, a Selenium framework</description>
     <url>https://github.com/alb-i986/selenium-tinafw-archetype</url>
     <licenses>
         <license>
