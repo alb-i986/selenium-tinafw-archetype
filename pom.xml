@@ -5,7 +5,7 @@
 
     <groupId>me.alb-i986.selenium</groupId>
     <artifactId>selenium-tinafw-archetype</artifactId>
-    <version>1.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
     <name>selenium-tinafw archetype</name>
